@@ -2,7 +2,7 @@
 
 """Sistema de gestión de una biblioteca."""
 
-"""integrantes: BLAS BALDEON VERONICA, JOSÉ MANUEL INCHUÑA RUIZ, y EBER VILLASANTE MAMANI """
+"""integrantes: BLAS VERONICA, JOSÉ INCHUÑA, y VILLASANTE EBER"""
 """Grupo: B"""
 
 """Asignatura: Lenguaje de Programación 1"""

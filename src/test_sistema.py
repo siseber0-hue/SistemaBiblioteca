@@ -1,13 +1,16 @@
-
+#============================================================
 """
 SISTEMA DE GESTIÓN PARA BIBLIOTECA UNIVERSITARIA
 
-Integrantes: MARCO ANTONIO, ARMANDO TORRES
-Y FERNANDA VILLEGAS
+Integrantes: BLAS VERONICA, EBER VILLASANTE y JOSÉ INCHUÑA 
+
 Grupo: B
 Asignatura: Lenguaje de Programación 1
+"""
+#=============================================================
 
-Este programa aplica programación orientada a objetos mediante
+
+"""Este programa aplica programación orientada a objetos mediante
 clases, encapsulamiento, herencia, polimorfismo y excepciones.
 """
 
