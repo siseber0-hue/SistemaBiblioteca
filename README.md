@@ -113,9 +113,9 @@ El sistema es una implementación académica básica. Si la información se alma
 
 ## 👥 Integrantes
 
-- **MARCO ANTONIO**
-- **ARMANDO TORRES**
-- **FERNANDA VILLEGAS**
+- **BLAS B, VERONICA**
+- **INCHUÑA R, JOSÉ INCHUÑA**
+- **VILLASANTE M, EBER**
 
 **Grupo:** B  
 **Asignatura:** Lenguaje de Programación 1
